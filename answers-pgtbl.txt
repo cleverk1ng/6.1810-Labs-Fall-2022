@@ -1,0 +1,6 @@
+fork()
+Add parent in struct usyscall.
+page0: process data and text
+page2: process stack
+No.
+Heap, trapframe and trampoline.
